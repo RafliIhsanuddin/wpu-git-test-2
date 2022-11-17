@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>COBA 2</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Explicabo, culpa aliquid enim non ea delectus unde ratione 
+        sit eaque dicta vero natus assumenda, illo ab deserunt rerum est, perferendis asperiores?</p>
 </body>
 </html>
